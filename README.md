@@ -36,35 +36,5 @@ The main algorithm behind the animated clock involves rotating the clock hands (
 - Python 3.6 or higher
 - Pygame 2.0 or higher
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/2D-Transformations-Animated-Clock.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd 2D-Transformations-Animated-Clock
-   ```
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Running the Program
-1. **User Input**:
-   - The program will prompt you to enter your study course, course number, group, and browser language. It will also ask if you will be departing from one or various addresses in the following month.
-   - Provide this information through the terminal following the instructions.
-
-2. **Fetching Lecture Schedule**:
-   - The program will use the provided information to browse `nodarbibas.rtu.lv` and obtain your lecture schedule, including times and locations.
-
-3. **Generating Route Information**:
-   - The program will then use Google Maps to calculate the routes from your specified addresses to the lecture locations.
-   - The route information will include departure times, travel methods, and estimated travel times.
-
-4. **Saving to Excel**:
-   - The obtained schedule and route information will be saved into an Excel file with a dynamic name.
-
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
