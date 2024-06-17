@@ -36,5 +36,8 @@ The main algorithm behind the animated clock involves rotating the clock hands (
 - Python 3.6 or higher
 - Pygame 2.0 or higher
 
+## Clock animation GIF
+![Clock Animation](clockGIF.gif)
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
